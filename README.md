@@ -2,7 +2,7 @@
 
 Página estática de presentación del país ficticio **Amakaze**, creada para practicar **HTML5, CSS3, Bootstrap 5 y Tailwind CSS** durante mi bootcamp full-stack.
 
-![Bandera de Amakaze](./Images/Bandera%20Amakaze.png)
+![Bandera de Amakaze](./Images/Bandera.png)
 
 ## 🌐 Demo
 Enlace en vivo:  
