@@ -137,3 +137,10 @@ li{ margin:6px 0 }
 .hr{ height:1px; background:linear-gradient(90deg, transparent, rgba(226,177,39,.45), transparent); margin:16px 0 }
 footer.site{ margin-top:26px; color:var(--muted); text-align:center; font-size:13px }
 .pill{ display:inline-block; padding:3px 8px; border-radius:999px; font-size:11px; border:1px solid var(--line); background:#faf6ed; color:var(--muted) }
+
+.card-body,
+.card-body p,
+.card-body strong,
+.card-body em {
+  color: var(--ink) !important;   /* #0b2a65 */
+}
